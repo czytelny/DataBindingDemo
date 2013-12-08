@@ -1,4 +1,4 @@
 DataBindingDemo
 ===============
 
-The simplest possible example of data binding with NetBeans IDE.
+The simplest possible example of the data binding with Swing and NetBeans IDE.
